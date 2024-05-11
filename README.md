@@ -1,5 +1,8 @@
 # Death-stranding-scan
  死亡搁浅扫描效果复刻
+
+ 效果链接: [bilibili](https://www.bilibili.com/video/BV1tb421h7KD)
+ 效果记录: [知乎]()
  
  资产文件涉及到版权，就没放进来
  
