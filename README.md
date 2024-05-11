@@ -1,2 +1,8 @@
 # Death-stranding-scan
  死亡搁浅扫描效果复刻
+ 资产文件涉及到版权，就没放进来
+ 场景查看 assets/scene/sample scene
+ 脚本在 assets/scripts 里面，为render feature 和 执行扫描的 monobehavior
+ 着色器在 assets/shader 里面，包含扫描 shader 和 gpu instance shader
+ 粒子在 assets/particles 里面，包含三种颜色的地形标记粒子变体
+ 
