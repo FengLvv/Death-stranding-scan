@@ -6,7 +6,7 @@
  
  资产文件涉及到版权，就没放进来
  
- 场景查看 assets/scene/sample scene
+ 场景查看 assets/scenes/sample scene
  
  脚本在 assets/scripts 里面，为render feature 和 执行扫描的 monobehavior
  
