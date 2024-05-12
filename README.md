@@ -1,7 +1,7 @@
 # Death-stranding-scan
  死亡搁浅扫描效果复刻
 
- ![[poster.png]]
+![poster](./poster.png)
 
  效果链接: [bilibili：https://www.bilibili.com/video/BV1tb421h7KD](https://www.bilibili.com/video/BV1tb421h7KD) 
  
